@@ -1,0 +1,15 @@
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\bin\Debug\net6.0\Revisao_C#.exe
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\bin\Debug\net6.0\Revisao_C#.deps.json
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\bin\Debug\net6.0\Revisao_C#.runtimeconfig.json
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\bin\Debug\net6.0\Revisao_C#.dll
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\bin\Debug\net6.0\Revisao_C#.pdb
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.csproj.AssemblyReference.cache
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.AssemblyInfoInputs.cache
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.AssemblyInfo.cs
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.dll
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\refint\Revisao_C#.dll
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.pdb
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\Revisao_C#.genruntimeconfig.cache
+C:\Users\thiago.fabricio\source\repos\Revisao_C#\Revisao_C#\obj\Debug\net6.0\ref\Revisao_C#.dll

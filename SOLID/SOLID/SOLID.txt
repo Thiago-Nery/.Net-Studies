@@ -1,0 +1,3 @@
+S -> Single Responsability 
+O -> Open-Closed 
+L -> Liskov Substitution

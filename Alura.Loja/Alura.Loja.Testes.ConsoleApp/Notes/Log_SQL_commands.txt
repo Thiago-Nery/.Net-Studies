@@ -1,0 +1,5 @@
+﻿use these lines and the SqlLoggerProvider class to see the sql commands that are running:
+
+                var serviceProvider = contexto.GetInfrastructure<IServiceProvider>();
+                var loggerFactory = serviceProvider.GetService<ILoggerFactory>();
+                loggerFactory.AddProvider(SqlLoggerProvider.Create());
